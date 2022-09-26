@@ -1,0 +1,20 @@
+﻿@page
+@model CompuMaintenance.App.FrontEnd.Pages.Clientes.DetailsModel
+@{
+}
+<h2>Datos Detallados del Cliente @Model.Cliente.Nombre @Model.Cliente.Apellidos</h2>
+<div>
+    Nombre: @Model.Cliente.Nombre
+</div>
+<div>
+    Apellidos: @Model.Cliente.Apellidos
+</div>
+<div>
+    Telefono: @Model.Cliente.NumeroTelefono
+</div>
+
+<div>
+    Dirección: @Model.Cliente.Direccion
+</div>
+
+<a asp-page="./List" class="btn-default">Volver a la Lista de Clientes.. </a>

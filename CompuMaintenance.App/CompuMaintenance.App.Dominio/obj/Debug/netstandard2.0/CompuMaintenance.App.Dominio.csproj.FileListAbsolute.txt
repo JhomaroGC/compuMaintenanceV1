@@ -1,0 +1,9 @@
+C:\Users\empre\OneDrive - Universidad de Antioquia\Escritorio\compuMaintenanceV1\CompuMaintenance.App\CompuMaintenance.App.Dominio\bin\Debug\netstandard2.0\CompuMaintenance.App.Dominio.deps.json
+C:\Users\empre\OneDrive - Universidad de Antioquia\Escritorio\compuMaintenanceV1\CompuMaintenance.App\CompuMaintenance.App.Dominio\bin\Debug\netstandard2.0\CompuMaintenance.App.Dominio.dll
+C:\Users\empre\OneDrive - Universidad de Antioquia\Escritorio\compuMaintenanceV1\CompuMaintenance.App\CompuMaintenance.App.Dominio\bin\Debug\netstandard2.0\CompuMaintenance.App.Dominio.pdb
+C:\Users\empre\OneDrive - Universidad de Antioquia\Escritorio\compuMaintenanceV1\CompuMaintenance.App\CompuMaintenance.App.Dominio\obj\Debug\netstandard2.0\CompuMaintenance.App.Dominio.csprojAssemblyReference.cache
+C:\Users\empre\OneDrive - Universidad de Antioquia\Escritorio\compuMaintenanceV1\CompuMaintenance.App\CompuMaintenance.App.Dominio\obj\Debug\netstandard2.0\CompuMaintenance.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\empre\OneDrive - Universidad de Antioquia\Escritorio\compuMaintenanceV1\CompuMaintenance.App\CompuMaintenance.App.Dominio\obj\Debug\netstandard2.0\CompuMaintenance.App.Dominio.AssemblyInfo.cs
+C:\Users\empre\OneDrive - Universidad de Antioquia\Escritorio\compuMaintenanceV1\CompuMaintenance.App\CompuMaintenance.App.Dominio\obj\Debug\netstandard2.0\CompuMaintenance.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\empre\OneDrive - Universidad de Antioquia\Escritorio\compuMaintenanceV1\CompuMaintenance.App\CompuMaintenance.App.Dominio\obj\Debug\netstandard2.0\CompuMaintenance.App.Dominio.dll
+C:\Users\empre\OneDrive - Universidad de Antioquia\Escritorio\compuMaintenanceV1\CompuMaintenance.App\CompuMaintenance.App.Dominio\obj\Debug\netstandard2.0\CompuMaintenance.App.Dominio.pdb
